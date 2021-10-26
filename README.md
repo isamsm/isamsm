@@ -12,6 +12,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isamsm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+  ##
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Isa-C#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Isa-HTML" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
