@@ -32,10 +32,9 @@
   
   <div>
     	<a href="https://www.instagram.com/i.samsm/"> <img align="center" alt="Isa-Instagram" height="30" width="120" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">  
+        </div>
     
       ![Snake animation](https://github.com/isamsm/isamsm/blob/output/github-contribution-grid-snake.svg)
-    
-        </div>
     
     
   
