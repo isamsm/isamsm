@@ -1,6 +1,6 @@
 ### Olá, eu sou a Isabelly Marques!
 
-- 👾 Estou estudando javascript e python
+- 👾 Estou cursando Analise e Desenvolvimento de Sistemas
 - 📫 Contato: isamarsques@gmail.com
 - 💁‍♀️ Pronouns: she/her
 
