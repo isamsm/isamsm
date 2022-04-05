@@ -29,3 +29,7 @@
   </div>
   
   ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/isa-marques-363b52218" target="_blank"><img align="center" alt="Isa-PlacaVideo" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </div>
