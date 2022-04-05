@@ -25,7 +25,7 @@
   ##
   
   <div>
-    <img align="center" alt="Isa-PlacaVideo" height="30" width="170" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+    <img align="center" alt="Isa-PlacaVideo" height="30" width="175" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
   </div>
   
   ##
