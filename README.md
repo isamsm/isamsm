@@ -1,6 +1,6 @@
 ### Olá, eu sou a Isabelly Marques!
 
-- 👾 Estou estudando java e javascript.
+- 👾 Estou estudando html, css, javascript e react. Em uma busca constante por evolução.
 - 📫 Contato: isamarsques@gmail.com
 - 💁‍♀️ Pronouns: she/her
 
