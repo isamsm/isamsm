@@ -1,6 +1,6 @@
 ### Olá, eu sou a Isabelly Marques!
 
-- 👾 Estou estudando html, css, javascript e react. Em uma busca constante por evolução.
+- 👾 Em um constante processo de aprendizagem. Atualmente estou estudando react, react native e nextjs.
 - 📫 Contato: isamarsques@gmail.com
 - 💁‍♀️ Pronouns: she/her
 
