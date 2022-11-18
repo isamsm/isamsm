@@ -21,7 +21,7 @@
     <img align="center" alt="Isa-JS" height="30" width="130" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="Isa-Java" height="30" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img align="center" alt="Isa-ReactJS" height="30" width="110" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-    <img align="center" alt="Isa-NextJS" height="30" width="110" src="[https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge](https://img.shields.io/badge/-NextJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)">
+    <img align="center" alt="Isa-NextJS" height="30" width="110" src="https://img.shields.io/badge/-NextJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
   </div>
   
   ##
