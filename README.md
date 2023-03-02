@@ -27,7 +27,7 @@
     <img align="center" alt="Isa-Bootstrap" height="30" width="130" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="Isa-NextJS" height="30" width="75" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img align="center" alt="Isa-ReactNative" height="30" width="130" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-        <img align="center" alt="Isa-PHP" height="30" width="130" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+        <img align="center" alt="Isa-PHP" height="30" width="70" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   </div>
   
   ##
