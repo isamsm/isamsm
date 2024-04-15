@@ -26,7 +26,7 @@
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Isa-NextJS" height="30" width="75" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-     <img align="center" alt="Isa-Tailwind" height="30" width="90" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+     <img align="center" alt="Isa-Tailwind" height="30" width="100" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   </div>
   
   ##
