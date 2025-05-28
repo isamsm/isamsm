@@ -6,7 +6,7 @@ const isa = {
   code: [HTML, CSS, Javascript],
   tools: [React, NextJs, Bootstrap, Tailwind],
   languagesSpoken: [Portuguese, English],
-  currentFocus: "No Focus point at this time",
+  currentFocus: "Becoming a mid-level developer",
 }
 ```
 
