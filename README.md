@@ -3,8 +3,9 @@
 ```javascript
 const isa = {
   pronouns: "she" | "her",
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, Javascript, Typescript],
   tools: [React, NextJs, Bootstrap, Tailwind],
+  ecommerce: [VTEX IO, Wake Commerce, Shopify],
   languagesSpoken: [Portuguese, English],
   currentFocus: "Becoming a mid-level developer",
 }
